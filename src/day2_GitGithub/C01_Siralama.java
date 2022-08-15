@@ -16,4 +16,7 @@ public class C01_Siralama {
               Not;Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece git
               push kullaniriz
      */
+    public static void main(String[] args) {
+        System.out.println("GitHub'i ogrendim");
+    }
 }
