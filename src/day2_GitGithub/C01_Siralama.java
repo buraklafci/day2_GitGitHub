@@ -20,5 +20,6 @@ public class C01_Siralama {
     public static void main(String[] args) {
         System.out.println("GitHub'i ogrendim");
         System.out.println("2 gunde ogrendim");
+        System.out.println("Branch 1.deneme");
     }
 }
