@@ -5,6 +5,9 @@ public class C01 {
         System.out.println("ogrendim galiba bu isi");
         System.out.println("ogrendim galiba bu isi ...");
         System.out.println("ogrendim galiba bu isi ......");
+
         System.out.println("ogrendim galiba bu isi ......resolve");
+
+
     }
 }
